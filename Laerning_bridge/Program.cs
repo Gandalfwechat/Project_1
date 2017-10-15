@@ -107,8 +107,19 @@ namespace Laerning_bridge
 
     }
 
-    public class ActualRemoteController: Controller
+    public class ActualRemoteController : Controller
     {
+        public override void IsOn()
+        {
+            Console.WriteLine("-------- No TV -------");
+        }
+
+        public override void IsOff()
+        {
+            Console.WriteLine("------------");
+        }
+
+
 
 
     }
