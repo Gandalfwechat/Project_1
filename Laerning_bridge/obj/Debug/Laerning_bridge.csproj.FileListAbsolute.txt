@@ -1,0 +1,7 @@
+C:\Users\ChenX\source\repos\PatternDesignLearning\Laerning_bridge\Laerning_bridge\bin\Debug\Laerning_bridge.exe.config
+C:\Users\ChenX\source\repos\PatternDesignLearning\Laerning_bridge\Laerning_bridge\bin\Debug\Laerning_bridge.exe
+C:\Users\ChenX\source\repos\PatternDesignLearning\Laerning_bridge\Laerning_bridge\bin\Debug\Laerning_bridge.pdb
+C:\Users\ChenX\source\repos\PatternDesignLearning\Laerning_bridge\Laerning_bridge\obj\Debug\Laerning_bridge.csprojResolveAssemblyReference.cache
+C:\Users\ChenX\source\repos\PatternDesignLearning\Laerning_bridge\Laerning_bridge\obj\Debug\Laerning_bridge.csproj.CoreCompileInputs.cache
+C:\Users\ChenX\source\repos\PatternDesignLearning\Laerning_bridge\Laerning_bridge\obj\Debug\Laerning_bridge.exe
+C:\Users\ChenX\source\repos\PatternDesignLearning\Laerning_bridge\Laerning_bridge\obj\Debug\Laerning_bridge.pdb
