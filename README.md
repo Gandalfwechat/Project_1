@@ -1,1 +1,1 @@
-# Project_1
+# This project is the practice of Bridge pattern by C# 
